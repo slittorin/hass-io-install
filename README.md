@@ -25,7 +25,7 @@
 10. Add the SSD disk to the RPI.
 11. Add power to the RPI.
 12. Wait for 10 minutes (how long time is needed?).
-13. In a web browser go the IP address (or hostname) and port 8123, for example [http://192.168.2.20:8123/](http://192.168.2.20:8123/).
+13. In a web browser go the IP address of the Home Assistant (or hostname) and port 8123, for example [http://192.168.2.20:8123/](http://192.168.2.20:8123/).
 14. Perform the [onboarding procedure](https://www.home-assistant.io/getting-started/onboarding/).
 
 Continue in [Home Assistant setup](https://github.com/slittorin/home-assistant-setup).
